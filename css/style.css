@@ -8,8 +8,17 @@
 *{
     font-family: 'Roboto', sans-serif;
 }
+
 body{
     background-color: #F6F8F9;
+}
+.container{
+    width: 75%;
+    margin: 0 auto;
+}
+.backround-white{
+    background-color: #F6F8F9;
+
 }
 /* HEADER */
 header{
@@ -24,3 +33,124 @@ h1{
 #main-logo{
     vertical-align: middle;
 }
+/* MAIN */
+.test-div{
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 5%;
+    
+}
+p{
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 2%;
+
+
+}
+.check{
+    border-radius: 50%;
+    height: 25px;
+    width: 25px;
+    border: 1px solid #6FC6B2;
+    display: inline-block;
+    text-align: center;
+
+}
+.not-done{
+    border-radius: 50%;
+    height: 25px;
+    width: 25px;
+    border: 1px solid rgb(255, 34, 34);
+    display: inline-block;
+    text-align: center;
+
+}
+.blue-editorial{
+    background-color: #3CA7E9;
+}
+.blue-editorial {
+    width: 65px;
+    height: 30px;
+    border-radius: 15%;
+    border: 2px solid #3CA7E9;
+    background-color: #3CA7E9;
+    display: inline-block;
+    color: white;
+    text-align: center;
+}
+.q1{
+    width: 70px;
+    height: 30px;
+    border-radius: 15%;
+    border: 2px solid #9B71E3;
+    background-color: #9B71E3;
+    display: inline-block;
+    color: white;
+    text-align: center;
+
+    
+}
+.recruiting{
+    width: 80px;
+    height: 30px;
+    border-radius: 15%;
+    border: 1px solid #64C0A9;
+    background-color: #64C0A9;
+    display: inline-block;
+    color: white;
+    text-align: center;
+}
+.mobile{
+    width: 60px;
+    height: 30px;
+    border-radius: 15%;
+    border: 1px solid #F29E33;
+    background-color: #F29E33;
+    display: inline-block;
+    color: white;
+    text-align: center;
+}
+.website{
+    width: 60px;
+    height: 30px;
+    border-radius: 15%;
+    border: 1px solid #D863A1;
+    background-color: #D863A1;
+    display: inline-block;
+    color: white;
+    text-align: center;
+}
+.sales{
+    width: 60px;
+    height: 30px;
+    border-radius: 15%;
+    border: 1px solid #B0C926;
+    background-color: #B0C926;
+    display: inline-block;
+    color: white;
+    text-align: center;
+}
+.button-1{
+    width: 65px;
+    height: 30px;
+    border-radius: 15%;
+    border: 2px solid #3CA7E9;
+    background-color: #3CA7E9;
+    display: inline-block;
+    color: white;
+    text-align: center;
+    margin-bottom: 6px;
+}
+.button-2{
+    width: 80px;
+    height: 30px;
+    border-radius: 15%;
+    border: 2px solid #C7CDD2;
+    background-color: white;
+    display: inline-block;
+    color: #C7CDD2;
+    text-align: center;
+    margin-bottom: 6px;
+}
+
+  
